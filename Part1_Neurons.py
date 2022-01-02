@@ -60,5 +60,3 @@ plot(G.v0, M.count/duration)
 xlabel('v0')
 ylabel('Firing rate (sp/s)')
 plt.show()
-
-# test 
